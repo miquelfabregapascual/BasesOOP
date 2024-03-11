@@ -1,0 +1,4 @@
+﻿  BasesOOP.cpp
+E:\AluCiclesGS2\m03\BasesOOP\BasesOOP\BasesOOP.cpp(78,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS2\m03\BasesOOP\BasesOOP\BasesOOP.cpp(79,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  BasesOOP.vcxproj -> E:\AluCiclesGS2\m03\BasesOOP\x64\Debug\BasesOOP.exe
